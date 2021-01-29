@@ -1,0 +1,9 @@
+:root {
+    --main-pink: pink;
+    --secundary-pink: red;
+}
+
+.btn-secundary {
+    background-color: var(--secundary-pink);
+    border-color: var(--secundary-pink);
+}
